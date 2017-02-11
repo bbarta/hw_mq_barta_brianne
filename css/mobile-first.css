@@ -1,8 +1,7 @@
+/* mobile-first */
 body {
     background-color: pink;
 }
-
-/* mobile-first */
 
 @media screen and (min-width: 675px) {
     body {
@@ -19,24 +18,5 @@ body {
 @media screen and (min-width: 1280px) {
     body {
         background-color: purple;
-    }
-}
-
-/* desktop-first */
-@media screen and (max-width: 1080px) {
-    body {
-        background-color: orange;
-    }
-}
-
-@media screen and (max-width: 550px) {
-    body {
-        background-color: blue;
-    }
-}
-
-@media screen and (max-width: 400px) {
-    body {
-        background-color: green;
     }
 }
