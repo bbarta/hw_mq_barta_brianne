@@ -1,3 +1,6 @@
+# Link
+[Git Repo](https://github.com/bbarta/hw_mq_barta_brianne)
+
 # Resources
 1. [Media Queries Using a Single CSS Stylesheet](https://www.youtube.com/watch?v=onxJ7lFPfqk)
 I tried to solve my problems by watching this video, but since we had multiple widths defined for each device, I was even more confused and unsuccessful. 
